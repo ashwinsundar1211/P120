@@ -1,0 +1,29 @@
+h3
+{
+  text-align: center;
+}
+
+.heading
+{
+  color: red;
+}
+
+.copy-right-footer
+{
+  position: fixed;
+  color: white;
+  background-color: black;
+  bottom: 0;
+  width: 100%;
+  line-height: 3;
+  text-align: center;
+}
+
+.result-container
+{
+  background-color: grey;
+  height: 50%;
+  width: 80%;
+  padding: 30px;
+  border-radius: 30px;
+}
